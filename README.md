@@ -4,7 +4,7 @@
 # Формочка
 "Формочка" представляет собой Excel-файл с макросами, написанными на [VBA](https://ru.wikipedia.org/wiki/Visual_Basic_for_Applications). Цель формочки заключается в том, чтобы упростить ежемесячную отчётность отдела закупок СООО "Гейм Стрим" (минский офис компании [Wargaming](https://wargaming.net)).
 
-Часть кода позаимствовано с проекта [VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
+Часть кода позаимствована с проекта [VBA-JSON](https://github.com/VBA-tools/VBA-JSON)
 
 # Что делают макросы в формочке
 1. Импортируют данные из [корпоративной JIRA](https://wgjira.wargaming.net) и регистрации (отдельная база данных в Excel) за отчётный период
